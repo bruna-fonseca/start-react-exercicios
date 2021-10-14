@@ -1,11 +1,10 @@
 import React from 'react';
-import Message from './components/Message';
+import Carta from './components/Carta';
 
 function App() {
   return (
     <div className="App">
-     <h1>Mensagem de esperança</h1>
-     <Message />
+     <Carta destino="Recife" remetente="Bruna" />
     </div>
   );
 }
