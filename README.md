@@ -1,1 +1,1 @@
-# react-aula01_componente_classe
+# react_aula01_componente_funcao
