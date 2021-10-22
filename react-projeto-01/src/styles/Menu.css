@@ -1,0 +1,18 @@
+header {
+  height: 50px;
+  background-color: rgb(172, 7, 7);
+
+  display: flex;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  margin: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+nav a:first-child {
+  margin-left: 40px;
+}
